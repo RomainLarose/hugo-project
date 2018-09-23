@@ -11,4 +11,5 @@ fields:
   config:
     required: false
 pages:
+- content/posts/Test-3.md
 - content/posts/Test-2.md
