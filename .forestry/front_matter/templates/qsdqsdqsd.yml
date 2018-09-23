@@ -1,0 +1,12 @@
+---
+label: qsdqsdqsd
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: SDsdqsd qsd
+  name: sdsdqsd_qsdqsdq
+  description: qsdqsd
+  hidden: true
+  config:
+    required: false
