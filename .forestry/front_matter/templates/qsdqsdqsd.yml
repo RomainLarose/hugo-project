@@ -10,3 +10,5 @@ fields:
   hidden: true
   config:
     required: false
+pages:
+- content/posts/Test-2.md
