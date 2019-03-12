@@ -13,6 +13,8 @@ Incididunt nostrud ut consectetur nisi pariatur aute sunt. Ad reprehenderit nisi
 
 In excepteur id quis occaecat reprehenderit cillum sit laboris mollit commodo id aute. Minim amet reprehenderit proident pariatur officia enim aliqua ex nostrud mollit. Non nisi qui laborum officia anim mollit minim laborum voluptate esse magna.
 
+![Transparency Design EN/FR](/uploads/Transparency.png "Transparency Design")
+
 ## Titre 3
 
 Eu eiusmod culpa proident aliqua. Eiusmod eiusmod exercitation adipisicing elit adipisicing voluptate voluptate ipsum excepteur anim deserunt dolore ea aliquip. Ipsum nostrud consectetur deserunt ut incididunt est cupidatat aute.
